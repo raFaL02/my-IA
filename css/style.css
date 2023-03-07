@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../assets/bg1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    display: grid;
+}
+
+#container {
+    background-color: #fff;
+    display: inline-block;
+    justify-content: center;
+    margin-top: 30px;
+    border: 1px;
+    border-radius: 20px;
+}
+
+#container img {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    margin: 60px auto 20px;
+}
+
+#title {    
+    text-align: center;
+    padding: 24px 24px;
+}
+
+#title h1 {
+    margin-bottom: 16px;
+}
+
+#question {
+    margin-bottom: 30px;
+    display: grid;
+    justify-content: center;
+}
+
+#question input {
+    margin-bottom: 16px;
+    padding: .35rem .8rem;
+
+}
+
+button {
+    background-color: #1a6473;
+    border: 1px solid #1a6473;
+    padding: .8rem .6rem;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+#answer {
+    text-align: center; 
+    margin-bottom: 50px;
+}
+
+
+
