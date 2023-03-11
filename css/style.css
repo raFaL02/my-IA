@@ -6,10 +6,10 @@
 }
 
 body {
-    background-image: url(../assets/bg1.jpg);
+    background-image: url(../assets/bg2.jpg);
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     justify-content: center;
     display: grid;
 }
@@ -53,8 +53,8 @@ body {
 }
 
 button {
-    background-color: #99142d;
-    border: 1px solid #99142d;
+    background-color: #2c3643;
+    border: 1px solid #2c3643;
     padding: .8rem .6rem;
     border-radius: 5px;
     color: #fff;
@@ -68,5 +68,6 @@ button {
     margin-bottom: 50px;
 }
 
+@media (min-width: 340px) {
 
-
+}
