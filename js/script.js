@@ -8,7 +8,6 @@ const answers = [
     "Não conte com isso.",
     "Sem dúvidas!",
     "Pergunta para a sua mãe, ela sempre sabe tudo",
-    "Melhor perguntar para a sua esposa, ela sempre está certa",
     "Pergunte novamente mais tarde.",
     "Sim, definitivamente!",
     "Minha resposta é não.",
